@@ -1,0 +1,2 @@
+# capturas
+capturas de ubuntu
